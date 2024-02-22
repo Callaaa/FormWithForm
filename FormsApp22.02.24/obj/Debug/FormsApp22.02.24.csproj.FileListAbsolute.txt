@@ -1,0 +1,12 @@
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\bin\Debug\FormsApp22.02.24.exe.config
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\bin\Debug\FormsApp22.02.24.exe
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\bin\Debug\FormsApp22.02.24.pdb
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.csproj.AssemblyReference.cache
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.csproj.SuggestedBindingRedirects.cache
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22._02._24.Form1.resources
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22._02._24.Form2.resources
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22._02._24.Properties.Resources.resources
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.csproj.GenerateResource.cache
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.csproj.CoreCompileInputs.cache
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.exe
+P:\22.02.2024\FormsApp22.02.24\FormsApp22.02.24\obj\Debug\FormsApp22.02.24.pdb
